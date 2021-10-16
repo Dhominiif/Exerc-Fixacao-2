@@ -26,7 +26,7 @@ public class Q1_paciente {
     }
 
     public String getSexo (){
-        return this.dataNascimento;
+        return this.sexo;
     }
 
     public String getPlanoSaude (){
